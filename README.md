@@ -3,6 +3,8 @@ This is a simple Flask web application that implements user registration, login,
 
 # Table of Contents
 Features
+
+
 Technologies Used
 # Features
 User Registration
