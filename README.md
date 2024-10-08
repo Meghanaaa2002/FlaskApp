@@ -8,12 +8,26 @@ Features
 Technologies Used
 # Features
 User Registration
+
+
 User Login
+
+
 User Profile Viewing
+
+
 Basic form validation
+
+
 Password management
 # Technologies Used
 Python 3.x
+
+
 Flask
+
+
 SQLite for the database
+
+
 HTML/CSS for the front end
